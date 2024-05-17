@@ -1,0 +1,122 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error: That port is already in use.
+[17/May/2024 11:13:41] "GET / HTTP/1.1" 302 0
+[17/May/2024 11:13:41] "GET /api/submitData/ HTTP/1.1" 200 6913
+[17/May/2024 11:14:03] "GET /api/ HTTP/1.1" 200 5277
+[17/May/2024 11:14:04] "GET /api/ HTTP/1.1" 200 5277
+[17/May/2024 11:14:06] "OPTIONS /api/ HTTP/1.1" 200 5531
+[17/May/2024 11:14:07] "GET /api/ HTTP/1.1" 200 5277
+[17/May/2024 11:14:46,723] - Broken pipe from ('5.228.112.198', 3952)
+[17/May/2024 11:14:51] "GET /api/ HTTP/1.1" 200 5277
+[17/May/2024 11:14:53] "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 304 0
+[17/May/2024 11:15:05] "OPTIONS /api/ HTTP/1.1" 200 5531
+[17/May/2024 11:15:06] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 11:15:07] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:16:13,579] - Broken pipe from ('5.228.112.198', 3859)
+[17/May/2024 11:21:40,298] - Broken pipe from ('5.228.112.198', 3950)
+Watching for file changes with StatReloader
+[17/May/2024 11:29:45] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:29:45] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 11:29:45] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[17/May/2024 11:30:50] "OPTIONS /api/submitData/?format=api HTTP/1.1" 200 7341
+[17/May/2024 11:33:25] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:34:47,610] - Broken pipe from ('5.228.112.198', 3914)
+[17/May/2024 11:34:47,610] - Broken pipe from ('5.228.112.198', 3896)
+[17/May/2024 11:34:47,611] - Broken pipe from ('5.228.112.198', 3862)
+[17/May/2024 11:34:47,611] - Broken pipe from ('5.228.112.198', 3913)
+[17/May/2024 11:38:21] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:39:35] "OPTIONS /api/submitData/?format=api HTTP/1.1" 200 7341
+[17/May/2024 11:39:36] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:39:37] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:39:38] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:40:29,138] - Broken pipe from ('5.228.112.198', 3929)
+[17/May/2024 11:40:49] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 11:40:50] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 11:40:52] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 11:41:47,858] - Broken pipe from ('5.228.112.198', 3888)
+[17/May/2024 11:42:50,639] - Broken pipe from ('5.228.112.198', 3855)
+[17/May/2024 11:43:50,697] - Broken pipe from ('5.228.112.198', 3867)
+[17/May/2024 11:44:25] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 11:55:03,323] - Broken pipe from ('5.228.112.198', 10574)
+[17/May/2024 11:58:29] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 11:58:29] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 11:58:30] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[17/May/2024 11:58:30] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 11:58:31] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 12:56:08,878] - Broken pipe from ('5.228.112.198', 3874)
+[17/May/2024 12:56:08,881] - Broken pipe from ('5.228.112.198', 3877)
+Watching for file changes with StatReloader
+[17/May/2024 13:44:52] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:44:52] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[17/May/2024 13:44:52] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+[17/May/2024 13:44:52] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[17/May/2024 13:44:52] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[17/May/2024 13:44:52] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+[17/May/2024 13:44:52] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Not Found: /favicon.ico
+[17/May/2024 13:44:52] "GET /favicon.ico HTTP/1.1" 404 2598
+[17/May/2024 13:44:55] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:44:57] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 13:44:58] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:45:00] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 13:45:02] "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 200 540434
+[17/May/2024 13:45:06] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 13:45:42] "OPTIONS /api/submitData/?format=api HTTP/1.1" 200 7341
+[17/May/2024 13:45:43] "GET /api/submitData/?format=json HTTP/1.1" 200 2
+[17/May/2024 13:45:47] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 13:45:47] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:45:48] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:17] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:18] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:18] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:19] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:20] "OPTIONS /api/?format=api HTTP/1.1" 200 5575
+[17/May/2024 13:48:24] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 13:48:25] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 13:50:33,382] - Broken pipe from ('5.228.112.198', 3897)
+[17/May/2024 13:50:33,382] - Broken pipe from ('5.228.112.198', 3893)
+Watching for file changes with StatReloader
+[17/May/2024 14:58:31] "GET /api/submitData/?format=api HTTP/1.1" 200 6979
+[17/May/2024 14:58:31] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[17/May/2024 14:58:31] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[17/May/2024 14:58:32] "GET /api/?format=api HTTP/1.1" 200 5343
+[17/May/2024 15:03:36,760] - Broken pipe from ('5.228.112.198', 3906)
+[17/May/2024 15:03:36,761] - Broken pipe from ('5.228.112.198', 3907)
+[17/May/2024 15:03:36,762] - Broken pipe from ('5.228.112.198', 3902)
